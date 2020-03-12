@@ -5,6 +5,11 @@
 ![gzip size](http://img.badgesize.io/https://npmcdn.com/react-field-mapping/dist/fieldmapping.js?compression=gzip)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/zsjjs/react-field-mapping/master/LICENSE)
 
+# 安裝 
+```
+npm install react-field-mapping --save
+```
+
 #### 关系映射组件
 
 ### View the <a href="https://codepen.io/godIsMe/pen/xvgYdx">Demo</a> and its <a href="https://github.com/zsjjs/react-field-mapping/blob/master/example/test.js">source</a> for more.
